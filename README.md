@@ -62,7 +62,7 @@ Using VLC and HandBrake to cut rugby video
 
 Really this is a brutal piece of programming without any bell and twinkle but is useful. 
 
-With VLC fast motion (+/-) the mouse will (change mouse option to control position) I cut a match in about 25 minutes. 
+With VLC fast motion (+/-) and mouse will (change mouse option to control position) I cut a match in about 25 minutes. 
 After I group several matches cutted in a directory and analize from the the same set piece and field area to find recursive patterns. 
 
 If you want all the lineout drive from Munster, just filter in the directory  
