@@ -76,7 +76,11 @@ If you want all the lineout drive from Munster, just filter in the directory
 
 or "mun*d" ... quicker
 
-- info about buttons....
+- Info about buttons....
 
 ![RRcut.15.png](/RRcut.15.png)
+
+- Info about files created in the working directory
+
+![RRcut.16.png](/RRcut.16.png)
 
