@@ -55,6 +55,14 @@ Using VLC and HandBrake to cut rugby video
  
 ![RRcut.13.png](/RRcut.13.png)
 
+- About buttons....
+
+![RRcut.15.png](/RRcut.15.png)
+
+- About files created in the working directory
+
+![RRcut.16.png](/RRcut.16.png)
+
 - Here, after the HandBrake transcode, the directory with all the clips
 
 ![RRcut.14.png](/RRcut.14.png)
@@ -76,11 +84,5 @@ If you want all the lineout drive from Munster, just filter in the directory
 
 or "mun*d" ... quicker
 
-- Info about buttons....
 
-![RRcut.15.png](/RRcut.15.png)
-
-- Info about files created in the working directory
-
-![RRcut.16.png](/RRcut.16.png)
 
