@@ -5,11 +5,11 @@ Using VLC and HandBrake to cut rugby video
 - Install VLC
 - Copy clips.rugbycut.1.6.lua in VLC extensions directory
 
-![RRcut.01.png]({{site.baseurl}}/RRcut.01.png)
+![RRcut.01.png](/RRcut.01.png)
 
 - [Download Handbrake (command line version)](https://handbrake.fr/downloads2.php "HandBrake") and copy it to c:\
 
-![RRcut.02.png]({{site.baseurl}}/RRcut.02.png)
+![RRcut.02.png](/RRcut.02.png)
 
 - Open .lua with you text editor and read how about
 
@@ -17,47 +17,47 @@ Using VLC and HandBrake to cut rugby video
 
 - Open VLC
 
-![RRcut.04.png]({{site.baseurl}}/RRcut.04.png)
+![RRcut.04.png](/RRcut.04.png)
 
 - Open the video match to cut. Please have a look to the name format of the video file: this is a match done 19 september 2015, Sandona versus Calvisano. I use the compact name "20150919 snd cal". Tre letters to identify the team like the score frame on television when you watch rugby matches  
 
-![RRcut.05.png]({{site.baseurl}}/RRcut.05.png)
+![RRcut.05.png](/RRcut.05.png)
 
 - Open the .lua extension from VLC
 
-![RRcut.06.png]({{site.baseurl}}/RRcut.06.png)
+![RRcut.06.png](/RRcut.06.png)
 
 - Here the input frame and the video toghether,sorry  i cant capture any image due the VLC-video-overlay. But in the black window there is the video
 
-![RRcut.07.png]({{site.baseurl}}/RRcut.07.png)
+![RRcut.07.png](/RRcut.07.png)
 
 - This is the input frame
 
-![RRcut.09a.png]({{site.baseurl}}/RRcut.09a.png)
+![RRcut.09a.png](/RRcut.09a.png)
 
 - in Italian, for my friends with English worse than mine
 
-![RRcut.09.png]({{site.baseurl}}/RRcut.09.png)
+![RRcut.09.png](/RRcut.09.png)
 
 - Somethings to check: the 3 letters TEAMS
 
-![RRcut.10.png]({{site.baseurl}}/RRcut.10.png)
+![RRcut.10.png](/RRcut.10.png)
 
 - 2 letters WHAT and the 12 field areas
 
-![RRcut.11.png]({{site.baseurl}}/RRcut.11.png)
+![RRcut.11.png](/RRcut.11.png)
 
 - HOW / RESULT
 
-![RRcut.12.png]({{site.baseurl}}/RRcut.12.png)
+![RRcut.12.png](/RRcut.12.png)
 
 - Here at the end of the video with all the cuts (tags) made in the VLC extension frame
  
-![RRcut.13.png]({{site.baseurl}}/RRcut.13.png)
+![RRcut.13.png](/RRcut.13.png)
 
 - Here, after the HandBrake transcode, the directory with all the clips
 
-![RRcut.14.png]({{site.baseurl}}/RRcut.14.png)
+![RRcut.14.png](/RRcut.14.png)
 
 
 Really this is a brutal piece of programming without any bell and twinkle but is useful. 
