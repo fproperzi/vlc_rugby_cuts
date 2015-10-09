@@ -13,7 +13,7 @@ Using VLC and HandBrake to cut rugby video
 
 - Open .lua with you text editor and read how about
 
-![RRcut.03.png]({{site.baseurl}}/RRcut.03.png)
+![RRcut.03.png](/RRcut.03.png)
 
 - Open VLC
 
