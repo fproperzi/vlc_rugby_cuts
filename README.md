@@ -83,3 +83,7 @@ If you want all the lineout drive from Munster, just filter in the directory
 - d = drive
 
 or "mun*d" ... quicker
+
+files names legenda:
+
+![RRcut.14.png](help/RRcut.17.png)
