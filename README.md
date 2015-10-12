@@ -1,5 +1,5 @@
-VLC Rugby Cutter
-================
+VLC Rugby Cuts
+==============
 Using VLC and HandBrake to cut rugby video
 
 - Install VLC
