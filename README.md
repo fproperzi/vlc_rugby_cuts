@@ -15,7 +15,7 @@ Using VLC and HandBrake to cut rugby video
 
 ![RRcut.03.png](help/RRcut.03.png)
 
-- Open VLC
+- Open VLC as administrator in win7/8 !!
 
 ![RRcut.04.png](help/RRcut.04.png)
 
