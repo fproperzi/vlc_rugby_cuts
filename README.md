@@ -8,6 +8,7 @@ Using VLC and HandBrake to cut rugby video
 ![RRcut.01.png](help/RRcut.01.png)
 
 - [Download Handbrake (command line version)](https://handbrake.fr/downloads2.php "HandBrake") and copy it to c:\
+- [If sill using XP download old version](https://handbrake.fr/old.php "HandBrake XP)
 
 ![RRcut.02.png](help/RRcut.02.png)
 
